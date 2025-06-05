@@ -17,7 +17,7 @@ def main():
     extractor = PDFExtractor(filename, "spatial_images",summarizer) 
     
     print("Custom extraction.")
-    extractor.pages_to_markdown("/Users/anandpardeep/AI/markdown/crowdstrike_spatial.md")
+    extractor.pages_to_markdown("crowdstrike_spatial.md")
     
     #print("Standard extraction.")
     #extractor.save_markdown("crowdstrike_standard.md", use_spatial=False)
