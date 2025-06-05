@@ -6,7 +6,7 @@ from  extractor import Extractor
 from content_elements import *
 from extractor import *
 
-filename = "/Users/anandpardeep/AI/CrowdStrikeGlobalThreatReport2025.pdf"
+filename = "CrowdStrikeGlobalThreatReport2025.pdf" 
 def main():
     load_dotenv()
 
