@@ -1,0 +1,104 @@
+**Company Confidential Document**
+
+---
+
+## **Welcome to SecureTech Inc.**
+
+At SecureTech Inc., we are committed to fostering a secure and innovative workplace. Our policies ensure a safe and productive environment for all employees. Please review this document carefully and reach out to the IT Security Team if you have any questions.
+
+---
+
+## **1. Company Culture & Ethical Guidelines**
+
+At SecureTech, we believe in integrity, collaboration, and innovation. Employees are expected to adhere to our ethical guidelines, which include:
+- Respect for colleagues and clients.
+- Honesty in communication and work practices.
+- Compliance with all company policies, including security protocols.
+
+Failure to follow ethical guidelines may result in disciplinary action as per company regulations.
+
+---
+
+## **2. IT Security Policy Overview**
+
+Information security is critical to our operations. Employees must:
+- Use company-approved devices for work-related tasks.
+- Keep confidential information secure and avoid sharing credentials.
+- Follow best practices for password management and cybersecurity.
+
+This document details our **Password Policy**, which must be strictly followed to protect company assets.
+
+---
+
+## **3. Password Policy (Mandatory Compliance)**
+
+To enhance security, SecureTech enforces the following **password policy** for all employees:
+
+### **3.1 Password Requirements**
+- **Length**: Passwords must be at least **12 characters long**.
+- **Complexity**: Must contain at least **one uppercase letter, one lowercase letter, one number, and one special character** (e.g., `!@#$%^&*`).
+- **Expiration**: Passwords must be changed every **90 days**.
+- **Reusability**: You **cannot reuse any of your last 5 passwords**.
+- **Multi-Factor Authentication (MFA)**: MFA is required for all company accounts.
+
+### **3.2 Prohibited Passwords**
+- Common passwords (e.g., `password123`, `admin`, `123456`)
+- Your name, username, or company name
+- Repeated characters (e.g., `aaaa1111`)
+- Sequences (e.g., `abcdefg` or `1234567`)
+
+### **3.3 Password Storage & Sharing**
+- **Do not write passwords down or store them in unencrypted files**.
+- **Never share your password with anyone**, including IT staff.
+- Use **company-approved password managers** for secure storage.
+
+### **3.4 Account Lockout Policy**
+- **5 failed login attempts** will lock your account for **15 minutes**.
+- To regain access, contact IT Support at `itsecurity@securetech.com`.
+
+---
+
+## **4. Email & Communication Guidelines**
+
+Employees should follow these best practices when using company email:
+- Avoid clicking on suspicious links in emails.
+- Do not share company-sensitive information through personal email accounts.
+- Report phishing attempts to **security@securetech.com**.
+
+---
+
+## **5. Remote Work Security Guidelines**
+
+For employees working remotely:
+- Always connect using the company VPN.
+- Ensure your home Wi-Fi is **password-protected**.
+- Lock your screen when stepping away from your device.
+
+---
+
+## **6. Incident Reporting**
+
+If you suspect a security breach, **report it immediately** by contacting IT Security at **emergency@securetech.com** or calling **(555) 123-4567**.
+
+---
+
+## **7. Enforcement & Compliance**
+
+Failure to comply with SecureTech's IT security policies, including the password policy, may result in disciplinary action, up to and including termination of employment.
+
+All employees are required to acknowledge and sign this document, confirming their understanding and agreement to follow these policies.
+
+---
+
+**Acknowledgment**
+
+I, _______________________, have read and understood SecureTech’s Password Policy and IT Security Guidelines. I agree to comply with the rules and regulations outlined in this document.
+
+Signature: _______________________
+
+Date: _______________________
+
+---
+
+**End of Document**
+

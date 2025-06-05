@@ -1,0 +1,11 @@
+# Conclusion
+
+As 2025 begins, the cybersecurity landscape continues to rapidly evolve, presenting significant challenges for organizations in all sectors and geographies. Adversaries’ resilience, innovation, and adaptability underscore the critical need for a comprehensive understanding of today’s threats across every aspect of the landscape.
+
+Social engineering proliferated throughout 2024 as adversaries explored new initial access methods to bypass security defenses. Vishing was particularly popular, with eCrime adversaries more heavily relying on vishing, callback phishing, and help desk attacks to enter target networks. This trend is expected to continue and expand in 2025.
+
+GenAI became a key adversary tool in 2024, especially in support of social engineering campaigns and high-tempo IO campaigns. Its low barrier to entry enables adversaries to create convincing content at scale without precise prompting or model training. Though genAI is still relatively novel, CrowdStrike has identified several examples of its use and anticipates it will be employed in 2025 adversary operations.
+
+Though they are less impactful to victims than BGH adversaries, targeted eCrime adversaries remain a persistent threat to specific sectors. Throughout 2024, these threat actors demonstrated tenacity in their targeting, often compensating for lower sophistication by gaining in-depth knowledge about their victims’ sectors, geographies, and associated technologies. Targeted eCrime adversaries demonstrated a growing interest in Latin American targets in 2024, realizing more lucrative profits through cryptocurrency theft in that region.
+
+Targeted intrusion adversaries were also exceptionally active and innovative in 2024, adapting their tactics to achieve geopolitical and strategic objectives while evading improved defensive measures. Russia-nexus adversaries are expected to continue their aggressive pursuit of victory in Ukraine, focusing primarily on intelligence collection operations targeting Ukraine and NATO members. China-nexus adversaries will likely benefit from long-term investments in cyber programs, manifesting in increased OPSEC practices, a sustained high operational tempo, and prolific global intrusion activity. These adversaries will likely focus on entities operating in key sectors aligning with the CCP’s strategic priorities.

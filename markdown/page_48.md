@@ -1,0 +1,20 @@
+# CrowdStrike Products
+
+## Endpoint Security
+
+| Product                                                   | Description                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **FALCON PREVENT** <br> _NEXT-GENERATION ANTIVIRUS_       | Protects against all types of threats, from malware and ransomware to sophisticated attacks, and deploys in minutes, immediately protecting your endpoints                                                                                   |
+| **FALCON INSIGHT XDR** <br> _EXTENDED DETECTION AND RESPONSE_ | Offers industry-leading, unified EDR and XDR with enterprise-wide visibility to automatically detect adversary activity and respond across endpoints and all key attack surfaces                                                            |
+| **FALCON DATA PROTECTION** <br> _UNIFIED DATA PROTECTION_ | Provides deep real-time visibility into what is happening with sensitive data and stops data theft with policy enforcement that automatically follows content, not files                                                                   |
+| **FALCON FIREWALL MANAGEMENT** <br> _HOST-BASED FIREWALL_ | Delivers simple, centralized host firewall management, making it easy to manage and control host firewall policies                                                                                                                         |
+| **FALCON DEVICE CONTROL** <br> _USB SECURITY_             | Provides the visibility and precise control required to enable safe usage of USB devices across your organization                                                                                                                          |
+| **FALCON FOR MOBILE** <br> _MOBILE THREAT DETECTION_      | Protects against threats to iOS and Android devices, extending XDR/EDR to your mobile devices, with advanced threat protection and real-time visibility into app and network activity                                                      |
+| **FALCON FORENSICS** <br> _FORENSIC CYBERSECURITY_        | Allows you to quickly respond and recover with automated forensic data collection, enrichment, and correlation                                                                                                                             |
+| **FALCON GO** <br> _SMB CYBER PROTECTION_                 | Gives small businesses peace of mind against cyber threats with easy-to-install next-gen antivirus, device control, and mobile device protection                                                                                           |
+
+## Counter Adversary Operations
+
+| Product                                                        | Description                                                                                                                                                                                                                  |
+|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **FALCON ADVERSARY OVERWATCH** <br> _INTELLIGENCE-LED THREAT HUNTING_ | Provides 24/7 protection across endpoints, identities, and cloud workloads delivered by AI-powered threat hunting experts and includes built-in threat intelligence to expose adversary tradecraft, vulnerabilities, and stolen credentials |

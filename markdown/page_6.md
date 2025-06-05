@@ -1,0 +1,15 @@
+# CROWDSTRIKE 2025 GLOBAL THREAT REPORT
+
+Democratic People’s Republic of Korea (DPRK)-nexus adversaries [LABYRINTH CHOLLIMA](#), [VELVET CHOLLIMA](#), and [SILENT CHOLLIMA](#) consistently targeted defense and aerospace entities in various countries. However, similar to previous years, most of these adversaries’ cyber operations focused on generating currency, which has become a lifeline for the regime. Notably, [FAMOUS CHOLLIMA](#) innovated their currency generation operations in 2024 by leveraging their IT worker schemes at scale across the globe. During 2024, [CrowdStrike Falcon® Adversary OverWatch™](#) threat hunters responded to 304 FAMOUS CHOLLIMA incidents, with nearly 40% of these representing insider threat operations.
+
+While DPRK adversaries have skillfully shifted their operations to support large-scale currency generation over the years, the specific tactics deployed in their 2024 operations — such as leveraging virtual interviews, allocating significant resources and staffing, and using laptop farms at scale — highlight the DPRK’s enterprising approach to computer network operations (CNO).
+
+Across the 2024 vulnerability threat landscape, threat actors continued to target devices in the network periphery and regularly leveraged publicly available vulnerability research — such as disclosures, technical blogs, and proof-of-concept (POC) exploits — to aid their malicious activity. Within the cloud landscape, an increasing number of new adversaries effectively exploited cloud environments, often employing previously tested techniques and adapting them for their own goals.
+
+Adversaries also leveraged genAI when conducting intelligence operations (IO) targeting election processes. Throughout 2024, adversaries increasingly adopted genAI, especially as a part of social engineering efforts.
+
+Staying one step ahead of the enterprising adversary is difficult — but not impossible. As the adversary matures, so do your defenses. As the adversary innovates, so does CrowdStrike. [CrowdStrike Counter Adversary Operations](#) raises the operational cost of conducting malicious cyber operations by combining the power of threat intelligence with the speed of dedicated hunting teams and trillions of cutting-edge telemetry events from the AI-native [CrowdStrike Falcon® platform](#) to detect, disrupt, and stop today’s sophisticated adversaries.
+
+Counter Adversary Operations comprises two closely integrated teams. The CrowdStrike Intelligence team provides actionable reporting that identifies new adversaries, monitors their activities, and captures emerging cyber threat developments in real time. The CrowdStrike OverWatch team uses this intelligence to conduct proactive threat hunting across customer telemetry to detect and address malicious activity.
+
+> **DURING 2024, CROWDSTRIKE FALCON ADVERSARY OVERWATCH THREAT HUNTERS RESPONDED TO 304 FAMOUS CHOLLIMA INCIDENTS, WITH NEARLY 40% OF THESE REPRESENTING INSIDER THREAT OPERATIONS.**

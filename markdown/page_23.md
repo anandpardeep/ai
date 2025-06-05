@@ -1,0 +1,13 @@
+# Threat Actors Leverage GenAI to Support CNO
+
+Some adversaries are exploring the use of genAI to directly support CNO, likely using it to assist in writing utility scripts and developing tools or malware. Limited direct visibility into adversary use of LLMs often inhibits analysis of these campaigns. Nonetheless, many adversaries using LLMs are likely still familiarizing themselves with these tools.
+
+In March 2024, a criminal actor distributed a spam email campaign that used a likely LLM-generated `.txt` template. The emails delivered an archive file containing the commodity malware *Snake Keylogger*. This campaign marks CrowdStrike’s first confirmed instance of a criminal actor using likely LLM-generated content in a malicious spam campaign.
+
+BGH ransomware operators *APT INC* used an uncommon, destructive PowerShell script to destroy data on a physical host. Based on the comment formatting, the similarity to results produced by other LLMs, and the lack of public sources resembling the script, it was likely generated using an LLM. Adversaries have used LLMs to generate scripts in the past; for example, SCATTERED SPIDER used a likely LLM-generated script in 2023.
+
+eCrime actors have also employed genAI to produce content. [NITRO SPIDER](#), who employs malvertising to deliver *Nitrogen*, used LLM-generated decoy websites in 2024. The adversary lures prospective targets by purchasing advertisements for particular search terms via Google or Bing. They filter out requests not originating from a malicious advertisement to ensure only legitimate victims receive the malware; other requests are rerouted to decoy websites created with LLM-generated text and imagery.
+
+In another campaign, an eCrime actor used similar techniques while distributing tooling crypted with the *Davey* crypter to targets who searched for two-factor authentication (2FA) software. Clicking on the advertisement exposes the malicious download site, while direct accesses are forwarded to an LLM-generated decoy site.
+
+Throughout 2024, several malicious actors discussed using genAI in criminal marketplaces and forums. For example, one Latin America (LATAM)-based threat actor discussed using generative pre-trained transformers (GPTs) and genAI to learn how to build malware with C and C++. As of December 2024, a Yemen-based cyber operator related to the *Dragon* and *Stormous* ransomware families maintains a GitHub repository for a command line interface tool that allegedly leverages a GPT model for various tasks, including executing shell commands.
