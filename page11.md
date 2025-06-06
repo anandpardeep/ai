@@ -3,13 +3,12 @@
 | Region | Percentage |
 | --- | --- |
 | North America | 53% |
-| East Asia | 14% |
-| Europe | 11% |
-| South Asia | 6% |
-| Middle East | 7% |
+| Europe | 14% |
+| South Asia | 11% |
+| Middle East | 6% |
 | South America | 5% |
-| Oceania | 3% |
-| Africa | 1% |
+| Oceania | 1% |
+| Africa | 3% |
 
 **Top 10 Industries Targeted by Interactive Intrusions**
 
@@ -36,3 +35,5 @@
 | 2022 | 71% |
 | 2023 | 75% |
 | 2024 | 79% |
+
+These statistics highlight the global reach of adversary operations and the necessity for cross-domain security strategies that account for identity compromise, lateral movement, and cloud-based attack vectors. The shift toward malware-free attack techniques has been a defining trend over the past five years. In 2024, malware-free activity accounted for 79% of detections, a significant rise from 40% in 2019.
