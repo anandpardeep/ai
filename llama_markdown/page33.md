@@ -1,45 +1,65 @@
-**CrowdStrike 2025 Global Threat Report**
+**CROWDSTRIKE 2025 GLOBAL THREAT REPORT**
 
-**Cloud Control Plane**
+**Page 32: Cloud Control Plane**
 
-| **Threat Actor** | **Initial Access** | **Credential Access** |
-| --- | --- | --- |
-|  | **Phishing** | **Stolen Credentials** |
-|  | **Ratan accesses a valid account** | **Access to new accounts** |
-|  | **Exploit Public Facing Service** | **Unsecured Credentials** |
+**Threat Actor**
 
-**Execution**
-
-| **Command Line Tools** | **Cloud Command Line Tools** |
-
-**Privilege Escalation**
-
-| **Add identity to admin groups and roles** | **Privilege Escalation** |
-
-**Persistence**
-
-| **Add alternate authentication mechanisms** | **User Identity Persistence** |
-
-**Defense Evasion**
-
-| **Inhibit email or cloud logging/forensic detection** | **Detection Evasion** |
-
-**Discovery**
-
-| **Enumerate identities, groups, and roles** | **Identity Function** |
-
-**Collection**
-
-| **Download data from SaaS solutions** | **SaaS Collection** |
+*   **Initial Access**
+    *   Phishing
+    *   Exploit Public Facing Service
+*   **Execution**
+    *   Command and Control Tools
+    *   Cloud Command Line Tools
+*   **Privilege Escalation**
+    *   Add Identity to Admin Groups and Roles
+*   **Persistence**
+    *   Add Alternate Authentication Mechanism
+    *   Add Credentials to Service Principal or Application
+*   **Defense Evasion**
+    *   Inhibit Small or Cloud Logging/Screen Detection
+    *   Tamper with Identity or Virtual Network Policies
+*   **Discovery**
+    *   Enumerate Identities, Groups, and Roles
+    *   Enumerate Site and Storage Solutions
+*   **Collection**
+    *   Download Data from SaaS Solutions
+    *   Download Data through Cloud Control Plane
 
 **Impact**
 
-| **Create new resources for lateral use** | **Resource Creation** |
+*   Create New Resources for Lateral Use
 
-**Cloud Infrastructure Collection**
+**Credential Access**
 
-| **Tuning application configuration** | **Resource Tuning** |
+*   Stolen Credentials
+*   Access to New Accounts
+*   Unsecured Credentials
+*   Virtual Machine-Based Execution
 
-**Data Encryption Detection/Exfiltration**
+**Privilege Escalation**
 
-| **Detect and exfiltrate data** | **Data Exfiltration** |
+*   Privilege Escalation
+*   User Identity Persistence
+*   Programmatic Identities Persistence
+*   Host-Based Persistence
+
+**Defense Evasion**
+
+*   Detection Evasion
+*   Secure Control Evasion
+
+**Discovery**
+
+*   Identity Enumeration
+*   Infrastructure and Storage Enumeration
+
+**Collection**
+
+*   SaaS Collection
+*   Cloud Infrastructure Collection
+
+**Impact**
+
+*   Resource Hijacking
+*   Data Encryption Detection/Exfiltration
+*   Ransomware Deployment
