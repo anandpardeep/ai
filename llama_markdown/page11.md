@@ -1,17 +1,15 @@
-**CrowdStrike 2025 Global Threat Report**
+The image presents a report on the global threat landscape, focusing on interactive intrusions by region and the top 10 industries targeted. The data is based on a 2025 global threat report.
 
 **Interactive Intrusions by Region**
 
-| Region | Percentage |
-| --- | --- |
-| North America | 53% |
-| East Asia | 14% |
-| Europe | 11% |
-| South Asia | 6% |
-| Middle East | 7% |
-| South America | 1% |
-| Oceania | 3% |
-| Africa | 5% |
+*   **North America:** 53%
+*   **East Asia:** 14%
+*   **Europe:** 11%
+*   **South Asia:** 6%
+*   **Middle East:** 7%
+*   **South America:** 5%
+*   **Oceania:** 3%
+*   **Africa:** 1%
 
 **Top 10 Industries Targeted by Interactive Intrusions**
 
@@ -28,13 +26,13 @@
 | Industrials and Engineering | 4% |
 | Academic | 3% |
 
-**Percentage of Detections that were Malware-Free (2019-2024)**
+**Key Findings**
 
-| Year | Percentage |
-| --- | --- |
-| 2019 | 40% |
-| 2020 | 51% |
-| 2021 | 62% |
-| 2022 | 71% |
-| 2023 | 75% |
-| 2024 | 79% |
+*   The majority of interactive intrusions occur in North America (53%) and East Asia (14%).
+*   The technology industry is the most targeted, accounting for 23% of all interactive intrusions.
+*   The consulting and professional services industry is the second most targeted, accounting for 15% of all interactive intrusions.
+*   The manufacturing industry is the third most targeted, accounting for 12% of all interactive intrusions.
+
+**Conclusion**
+
+The report highlights the importance of cybersecurity measures in protecting against interactive intrusions. The data suggests that certain regions and industries are more vulnerable to these types of attacks, and that targeted measures should be taken to mitigate these risks. Overall, the report provides valuable insights into the global threat landscape and can inform cybersecurity strategies for organizations and individuals alike.
